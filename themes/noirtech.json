@@ -146,7 +146,7 @@
         "syntax": {
           "attribute": {
             "color": "#91B4D5",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "boolean": {
@@ -156,12 +156,12 @@
           },
           "comment": {
             "color": "#767c9dB0",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "comment.doc": {
             "color": "#767c9dB0",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "constant": {
@@ -176,7 +176,7 @@
           },
           "emphasis": {
             "color": "#7390AA",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "emphasis.strong": {
@@ -286,12 +286,12 @@
           },
           "variable": {
             "color": "#ADD7FF",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "variable.special": {
             "color": "#ADD7FF",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           }
         },
